@@ -3,7 +3,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    margin-top: 20em;
+    margin-top: 10em;
   }
 
   .center1 {
@@ -12,11 +12,26 @@
     margin-top: 10em;
   }
 
+  .center-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    margin-top: 10em;
+  }
+
 .button {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1em;
+    border: 0;
+   }
+
+   .button-main {
+    
+    margin-top: 1em;
+    border: 0;
    }
 
 .button2 {
