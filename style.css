@@ -1,0 +1,36 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 20em;
+  }
+
+  .center1 {
+   
+  
+    margin-top: 10em;
+  }
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+   }
+
+.button2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    background-color: #4C8EFA;
+    border-color: #4C8EFA;
+    color: white;
+   }
+
+   label {
+    display: inline-block;
+    width: 280px;
+    text-align: left;
+  }​
